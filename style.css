@@ -8,3 +8,17 @@
 body{
     background-image: linear-gradient(to right,#D94E67,#E8E9EC,#023373,#968554);
 }
+
+main{
+    text-align: center;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+    text-shadow: 5px 5px 15px rgb(245, 217, 217);
+}
+
+p{
+    font-size: 20px;
+}
