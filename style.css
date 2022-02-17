@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+* {/* Configuracoes globais das CSS*/
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+body{
+    background-image: linear-gradient(to bottom,#D94E67,#E8E9EC,#023373,#968554);
+}
