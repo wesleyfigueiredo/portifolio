@@ -10,18 +10,22 @@
 }
 
 body{
-    background-image: linear-gradient(to right,#D94E67,#E8E9EC,#023373,#968554);
+    background-image: url('pexels-tara-winstead-8386440.jpg');
+    
 }
 
 main{
-    text-align: left;
+    text-align: center;
     margin: auto;
+    margin-left: 30%;
+    margin-right: 30%;
 }
 
 h1{
-    text-align: left;
+    text-align: center;
     text-shadow: 5px 5px 15px rgb(245, 217, 217);
     font-family: 'Creepster', cursive;
+    color: rgb(253, 253, 253);
 }
 
 h2{
