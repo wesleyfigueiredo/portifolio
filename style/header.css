@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+
+* {box-sizing: border-box;}
+
+body { 
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  overflow: hidden;
+  background-color: #1D6FEB;
+  padding: 5px 10px;
+  
+}
+
+header a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px; 
+  line-height: 25px;
+  border-radius: 4px;
+}
+
+header a.logo {
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+}
+
+header a:hover {
+  background-color: #649BEE;
+  
+}
+
+.header-right {
+  float: right;
+}
+

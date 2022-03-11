@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+
+* {box-sizing: border-box;}
+
+
+.foto {
+    height: 150px;
+    border-radius: 30%;
+  }
+
+main{
+    padding: 40px;
+    text-align: center;
+    font-size: large;
+}
+
+main a{
+    border-style: groove;
+    border-color: rgba(0, 0, 0, 0.37);
+    border-radius: 30px;
+    padding: 10px;
+    font-size: 10px;
+    color: rgb(17, 16, 16);
+    text-decoration: none;
+      
+}
+
+
